@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishSizeCalculator", "FishSizeCalculator\FishSizeCalculator.csproj", "{6323B6EA-184C-431D-BCC6-857DD230EFE5}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "SetupFCA", "SetupFCA\SetupFCA.isproj", "{7F31F87B-0350-4AE4-B319-625E298258B8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6323B6EA-184C-431D-BCC6-857DD230EFE5} = {6323B6EA-184C-431D-BCC6-857DD230EFE5}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6323B6EA-184C-431D-BCC6-857DD230EFE5}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{6323B6EA-184C-431D-BCC6-857DD230EFE5}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{6323B6EA-184C-431D-BCC6-857DD230EFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6323B6EA-184C-431D-BCC6-857DD230EFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6323B6EA-184C-431D-BCC6-857DD230EFE5}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{6323B6EA-184C-431D-BCC6-857DD230EFE5}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{6323B6EA-184C-431D-BCC6-857DD230EFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6323B6EA-184C-431D-BCC6-857DD230EFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6323B6EA-184C-431D-BCC6-857DD230EFE5}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{6323B6EA-184C-431D-BCC6-857DD230EFE5}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{7F31F87B-0350-4AE4-B319-625E298258B8}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{7F31F87B-0350-4AE4-B319-625E298258B8}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{7F31F87B-0350-4AE4-B319-625E298258B8}.Debug|Any CPU.ActiveCfg = SingleImage
+		{7F31F87B-0350-4AE4-B319-625E298258B8}.Debug|Any CPU.Build.0 = SingleImage
+		{7F31F87B-0350-4AE4-B319-625E298258B8}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{7F31F87B-0350-4AE4-B319-625E298258B8}.DVD-5|Any CPU.Build.0 = DVD-5
+		{7F31F87B-0350-4AE4-B319-625E298258B8}.Release|Any CPU.ActiveCfg = SingleImage
+		{7F31F87B-0350-4AE4-B319-625E298258B8}.Release|Any CPU.Build.0 = SingleImage
+		{7F31F87B-0350-4AE4-B319-625E298258B8}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{7F31F87B-0350-4AE4-B319-625E298258B8}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
