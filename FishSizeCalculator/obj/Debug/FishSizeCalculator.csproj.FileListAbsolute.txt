@@ -14,3 +14,11 @@ D:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\
 D:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\bin\Debug\MathNet.Numerics.dll
 D:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\bin\Debug\MathNet.Numerics.xml
 D:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\obj\Debug\FishSizeCalculator.csprojResolveAssemblyReference.cache
+C:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\bin\Debug\FishSizeCalculator.exe.config
+C:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\obj\Debug\FishSizeCalculator.exe
+C:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\obj\Debug\FishSizeCalculator.pdb
+C:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\obj\Debug\FishSizeCalculator.csprojResolveAssemblyReference.cache
+C:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\obj\Debug\FishSizeCalculator.frmFishWeightCalculator.resources
+C:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\obj\Debug\FishSizeCalculator.frmCounterCapacityGraph.resources
+C:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\obj\Debug\FishSizeCalculator.Properties.Resources.resources
+C:\Data\VAKI\Vaki_Repo\FishSizeCalculator\FishSizeCalculator\FishSizeCalculator\obj\Debug\FishSizeCalculator.csproj.GenerateResource.Cache
